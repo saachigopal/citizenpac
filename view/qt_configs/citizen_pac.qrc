@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+    <RCC version="1.0">
+    <qresource prefix="/view/qt_configs">
+        <file>images/logo_36x36.png</file>
+        <file>images/citizen_pac.png</file>
+        <file>data/bat_points.json</file>
+        <file>data/ghost_body.json</file>
+    </qresource>
+</RCC>
